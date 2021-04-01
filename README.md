@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning <a href="https://golang.org">Golang</a> and improving my ethical hacking skills
 - 💬 Ask me about anything you like. I know quite a lot about computers, which software might solve your problem or how to gain back privacy while using windows or macOS.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: [Why do hidden files begin with a dot](https://catonmat.net/unix-hidden-files)
 
 ### 👋 Connect with me
 
