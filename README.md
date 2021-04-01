@@ -1,4 +1,4 @@
-### Hi There, welcome to Carstens Github Profile. 🙋‍♂️
+## Hi There, welcome to Carstens Github Profile. 🙋‍♂️
 
 - 🔭 I’m currently working on the [100 Golang Exercises](https://github.com/cblte/100-golang-exercises)
 - 🌱 I’m currently learning <a href="https://golang.org">Golang</a> and improving my ethical hacking skills
@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
-## 👋 Connect with me
+### 👋 Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 
