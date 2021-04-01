@@ -1,6 +1,6 @@
 ### Hi There, welcome to Carstens Github Profile. 🙋‍♂️
 
-- 🔭 I’m currently working on the [100 Golang Exercises](100-golang-exercises)
+- 🔭 I’m currently working on the [100 Golang Exercises](https://github.com/cblte/100-golang-exercises)
 - 🌱 I’m currently learning <a href="https://golang.org">Golang</a> and improving my ethical hacking skills
 - 💬 Ask me about anything you like. I know quite a lot about computers, which software might solve your problem or how to gain back privacy while using windows or macOS.
 - 😄 Pronouns: he/him
