@@ -3,7 +3,7 @@
 Textfaces - Lenny face ( ͡° ͜ʖ ͡°), shrug face ¯\_(ツ)_/¯, dongers, and look of disapproval ಠ_ಠ. Click to copy, no need to highlight!
 
 - ( ͡° ͜ʖ ͡°)
-- ¯\_(ツ)_/¯
+- ¯\\_(ツ)_/¯
 - ̿̿ ̿̿ ̿̿ ̿&#39;̿&#39;\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
 - ▄︻̷̿┻̿═━一
 - ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
