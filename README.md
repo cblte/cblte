@@ -8,6 +8,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [Why do hidden files begin with a dot](//catonmat.net/unix-hidden-files)
 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cblte" />
+</p>
+
 ### 👋 Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -18,7 +22,6 @@
   <a href="https://dev.to/cblte"><img alt="Dev.to" title="cblte Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://keybase.io/cblte"><img alt="keybase.io" title="cblte on keybase.io" src="https://img.shields.io/badge/keybase.io-orange.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
-
 
 
 <!--
