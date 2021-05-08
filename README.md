@@ -19,13 +19,15 @@
 <p align="center">
   <a href="https://twitter.com/cblte"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://zn80.net/"><img alt="zn80.net" title="Carstens Blog" src="https://img.shields.io/badge/ZN80.net-GREEN.svg?&style=for-the-badge&logo=ZN80.net&logoColor=white"></a>
-  <a href="https://dev.to/cblte"><img alt="Dev.to" title="cblte Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  
   <a href="https://keybase.io/cblte"><img alt="keybase.io" title="cblte on keybase.io" src="https://img.shields.io/badge/keybase.io-orange.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 
 <!--
 **cblte/cblte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://dev.to/cblte"><img alt="Dev.to" title="cblte Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 Here are some ideas to get you started:
 
