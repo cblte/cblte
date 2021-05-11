@@ -6,6 +6,7 @@
 - 💬 Ask me about anything you like. I know quite a lot about computers, which software might solve your problem or how to gain back privacy while using windows or macOS.
 - 📝 Sometimes I also write something on my [blog](//zn80.net/blog)
 - 😄 Pronouns: he/him
+- Finally doing some Linux as OS. It feels good
 - ⚡ Fun fact: [Why do hidden files begin with a dot](//catonmat.net/unix-hidden-files)
 
 <p align="center"> 
