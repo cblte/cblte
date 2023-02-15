@@ -1,13 +1,12 @@
 ## Hi There, welcome to Carstens Github Profile. 🙋‍♂️
 
-- 🔭 A new goal is the read and learn more python with Learn Python The Hard Way
-- 🔭 My current project is to finish [100 Golang Exercises](//github.com/cblte/100-golang-exercises)
-- 🌱 Beside that I’m currently learning <a href="//golang.org">Golang</a> and improving my ethical hacking skills
+- 🔭 A new goal is the read and learn more C#, but also keep up with Python.
+- 🔭 My current project is to get back into developing a Roguelike Game (either C# or Java)
+- 🌱 Learning C# as I need it for my next Job and improving my ethical hacking skills
 - 🎮 Been a Gamer since i can barely remember 🤷🏾‍♂️, you can hit me up on [Steam](//steamcommunity.com/id/cbrueggenolte).
 - 💬 Ask me about anything you like. I know quite a lot about computers, which software might solve your problem or how to gain back privacy while using windows or macOS.
 - 📝 Sometimes I also write something on my [blog](//cbrueggenolte.de)
 - 😄 Pronouns: he/him
-- Finally doing some Linux as OS. It feels good
 - ⚡ Fun fact: [Why do hidden files begin with a dot](//catonmat.net/unix-hidden-files)
 
 <p align="center"> 
