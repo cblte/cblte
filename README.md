@@ -18,7 +18,7 @@
 <!-- Badges template - https://github.com/badges/shields -->
 
 <p align="center">
-  <a href="https://twitter.com/cblte"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://nrw.social/@cblte"><img alt="Mastodon" title="Mastodon" src="https://img.shields.io/mastodon/follow/109474432379000200?domain=https%3A%2F%2Fnrw.social&style=for-the-badge"/></a>
   <a href="https://cbrueggenolte.de/"><img alt="zn80.net" title="Carstens Blog" src="https://img.shields.io/badge/cbrueggenolte.de-GREEN.svg?&style=for-the-badge&logo=cbrueggenolte.de&logoColor=white"></a>
   <a href="https://keybase.io/cblte"><img alt="keybase.io" title="cblte on keybase.io" src="https://img.shields.io/badge/keybase.io-orange.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
