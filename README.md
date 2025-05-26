@@ -1,5 +1,7 @@
 ## Hi There, welcome to Carstens Github Profile. 🙋‍♂️
 
+I am moving slowly to codeberg.org. And you should too. Or a self-hosted solution or what-ever. 
+
 - 🔭 A new goal is the read and learn more C#, but also keep up with Python.
 - 🔭 My current project is to get back into developing a Roguelike Game (either C# or Java)
 - 🌱 Learning C# as I need it for my next Job and improving my ethical hacking skills
